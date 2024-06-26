@@ -2,7 +2,7 @@
 
 # dependencies
 .venv
-/node_modules
+# /node_modules
 /dist
 
 # IDEs and editors
